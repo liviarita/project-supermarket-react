@@ -1,0 +1,1 @@
+This is my first project in react. It´s a simple application to register supermarkets.
